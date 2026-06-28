@@ -1,2 +1,2 @@
-# summer-projects
-It contains notes made during some of my self-guided summer projects, which could be incomplete and updated constantly.
+# Fourier transform in QM
+At the start of my second year learning quantum mechanics, I was puzzled by the different appearances of definitions of position and momentum operators in "The Physics of Quantum Mechanics" by professor Binney and professor Skinner. After a circumference with professor Burnett, who introduced another interpretation, I am developing an interpretation using Fourier transform, which may coincide with the stardard interpretation. I have not checked the currently accepted interpretation systematically yet.
