@@ -1,2 +1,2 @@
-# summer-projects
-It contains notes made during some of my self-guided summer projects, which could be incomplete and updated constantly.
+# timelessness treatments
+Contains some of my thoughts on the arrow of time.
