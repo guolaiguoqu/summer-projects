@@ -1,2 +1,2 @@
-# summer-projects
-It contains notes made during some of my self-guided summer projects, which could be incomplete and updated constantly.
+# path integral
+I plan to study the Feynmann's path integral approach to quantum mechanics. At present, this is still at a preparational stage.
